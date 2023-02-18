@@ -1,0 +1,26 @@
+    1  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-DATA-PT-01-2023-U-LOLC.git
+    2  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-DATA-PT-01-2023-U-LOLC.git
+    3  cd UCB-VIRT-DATA-PT-01-2023-U-LOLC/
+    4  git pull
+    5  explorer .
+    6  cd ..
+    7  ls
+    8  cd class\copy
+    9  cd class\ copy
+   10  code .
+   11  cd ..
+   12  cd class\ activities 
+   13  git clone git@github.com:LC-Conner/bank_election_analysis.git
+   14  explorer .
+   15  git add .
+   16  cd bank_election_analysis/
+   17  git add .
+   18  git commit -m "adding initial data files"
+   19  git config --global user.email "brained-matrix0w@icloud.com"
+   20  git config --global user.name "LC-Conner"
+   21  git push
+   22  git add .
+   23  git commit -m "adding initial data files"
+   24  git push
+   25  history | commands.txt
+   26  history > commands.txt
